@@ -1,19 +1,19 @@
 # How to use
-Check session
-> acc session
+1. Check session
+    - `acc session`
 
-In case the session is not available, login as user
-> acc login
+2. In case the session is not available, login as user
+    - `acc login`
 
-Create new contest
-> acc new abc183
+3. Create new contest
+    - `acc new abc183`
 
-Move directory and create files
-> cd abc183
-> newsub
+4. Move directory and create files
+    - `cd abc183`
+    - `newsub`
 
-To test 
-> ojtest
+5. To test 
+    - `ojtest`
 
-To submit
-> ojsub 
+6. To submit
+    - `ojsub` 
